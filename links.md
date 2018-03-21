@@ -1,0 +1,27 @@
+# SunCoin (SUN) - Official SunCoin Links
+
+First Global CO2 Neutral Blockchain Network
+
+With focus on emission neutral mining and an CO2 initiative fund, SunCoin is the thought leader in creating a sustainable distributed ledger system awareness and offer working solution for decarbonizing the market. With your help, SunCoin will balance out impact on our environment and provide new ways powering the future of crypto finance and distributed ledger systems.
+
+**Info:** SunCoin is a proud fork of Dash. Kudos to the Dash team for the hard work and creating the technical foundation for a community driven project as SunCoin.
+
+This guide will provide you a list of official SunCoin links.
+
+## Links 
+
+- [Homepage](http://www.suncoin-network.com "Homepage")
+- [Whitepaper](https://github.com/suncoin-network/documentation/blob/master/suncoin-whitepaper.pdf "Whitepaper")
+- [GitHub](https://github.com/suncoin-network "GitHub")
+- [Twitter](https://twitter.com/suncoin_network "Twitter")
+- [Discord](https://discord.gg/Wy7qTWF "Discord")
+
+
+**SunCoin Announcement:** 21 March 2018 (10 pm CET | 5 pm EDT)
+
+- BitCoinTalk
+
+**SunCoin Release Date:** 25 March 2018 (10 pm CET | 5 pm EDT)
+
+- Wallet (Windows, Linux, macOS)
+- Explorer
