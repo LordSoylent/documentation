@@ -16,7 +16,7 @@ This guide will provide you a list of official SunCoin links.
 - [Twitter](https://twitter.com/suncoin_network "Twitter")
 - [Discord](https://discord.gg/Wy7qTWF "Discord")
 - [BitCoinTalk](https://bitcointalk.org/index.php?topic=3174578.0 "BitCoinTalk")
-- [StatusPage](https://stats.uptimerobot.com/27PX8CNN5 "StatusPage")
+- [StatusPage](https://status.suncoin-network.com/ "StatusPage")
 
 **SunCoin Release Date:** 25 March 2018 (10 pm CET | 5 pm EDT)
 
