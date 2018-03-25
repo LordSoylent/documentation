@@ -18,7 +18,7 @@ This guide will provide you a list of official SunCoin links.
 - [BitCoinTalk](https://bitcointalk.org/index.php?topic=3174578.0 "BitCoinTalk")
 - [StatusPage](https://status.suncoin-network.com/ "StatusPage")
 
-**SunCoin Release Date:** 25 March 2018 (10 pm CET | 5 pm EDT)
+**SunCoin Release Date:** 25 March 2018 (10 pm CET)
 
 - Wallet (Windows, Linux, macOS)
 - Explorer
