@@ -42,8 +42,8 @@ Please check: [Homepage](http://www.suncoin-network.com "Homepage") | [Links](ht
 
 #### When will SunCoin be released?
 
-- Announcement: 21 March 2018 (10 pm CET | 5 pm EDT)
-- Release: 25 March 2018 (10 pm CET | 5 pm EDT)
+- Announcement: 21 March 2018 (10 pm CET)
+- Release: 25 March 2018 (10 pm CET)
 
 #### What is the SunCoin specification?
 
