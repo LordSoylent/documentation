@@ -17,8 +17,6 @@ This guide will provide you a list of official SunCoin links.
 - [Discord](https://discord.gg/Wy7qTWF "Discord")
 - [BitCoinTalk](https://bitcointalk.org/index.php?topic=3174578.0 "BitCoinTalk")
 - [StatusPage](https://status.suncoin-network.com/ "StatusPage")
+- [Explorer](http://explorer.suncoin-network.com/ "Explorer")
+- [Wallets](https://github.com/suncoin-network/suncoin-core/releases "Wallets")
 
-**SunCoin Release Date:** 25 March 2018 (10 pm CET)
-
-- Wallet (Windows, Linux, macOS)
-- Explorer
